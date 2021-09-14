@@ -1,7 +1,5 @@
 # Soamee Test
 
-_Prueba de desarrollo de Front-End y Back-End realizada con Node.js, Express, MySQL y React.
-
 ### Pre-requisites
 
 React, Axion and Cors needed.
