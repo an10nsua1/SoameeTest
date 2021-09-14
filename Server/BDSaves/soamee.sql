@@ -1,0 +1,1 @@
+INSERT INTO Book VALUES ("Carlos Gomez, vida de un fracaso", "80085", "Hacker Mindundi");

@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.bookButtonForm{
+  display: flex;
+  flex-direction: column;
+  
+
+  width: 400px;
+  height: 60px;
+  margin: 10px;
+}
+
+.textBox{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 30px;
+  margin: 5px;
+}
+.regularButton{
+  display: flex;
+
+  width: 100;
+  height: 20px;
+  margin: 20px;
+}
+
+.labels{
+display: flex;
+margin: 10px;
+}

@@ -1,0 +1,1 @@
+SELECT * FROM soameetest.book b WHERE b.isbn = '787445465959' 
