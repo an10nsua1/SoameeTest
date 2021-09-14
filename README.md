@@ -24,4 +24,3 @@ Pressing "Upload" we will be creating a new row in the SQL DB, while pressing "U
 
 * [MAMP](https://www.mamp.info/en/windows/) - SQL Instance creation
 * [Sqlyog](https://github.com/webyog/sqlyog-community/wiki/Downloads) - SQL instance handle and visualization
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
